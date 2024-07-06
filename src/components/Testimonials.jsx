@@ -58,31 +58,31 @@ export default function Testimonials(){
                     <img
                       class="h-6 w-6 relative min-h-[24px]"
                       alt=""
-                      src="/public/icon-5.svg"
+                      src="https://i.ibb.co/dKZ4v1b/icon-5.png"
                     />
 
                     <img
                       class="h-6 w-6 relative min-h-[24px]"
                       alt=""
-                      src="/public/icon-5.svg"
+                      src="https://i.ibb.co/dKZ4v1b/icon-5.png"
                     />
 
                     <img
                       class="h-6 w-6 relative min-h-[24px]"
                       alt=""
-                      src="/public/icon-5.svg"
+                      src="https://i.ibb.co/dKZ4v1b/icon-5.png"
                     />
 
                     <img
                       class="h-6 w-6 relative min-h-[24px]"
                       alt=""
-                      src="/public/icon-5.svg"
+                      src="https://i.ibb.co/dKZ4v1b/icon-5.png"
                     />
 
                     <img
                       class="h-6 w-6 relative min-h-[24px]"
                       alt=""
-                      src="/public/icon-5.svg"
+                      src="https://i.ibb.co/dKZ4v1b/icon-5.png"
                     />
                   </div>
                   <blockquote class="m-0 self-stretch relative leading-[150%] text-black">
@@ -127,31 +127,31 @@ export default function Testimonials(){
                     <img
                       class="h-6 w-6 relative min-h-[24px]"
                       alt=""
-                      src="/public/icon-5.svg"
+                      src="https://i.ibb.co/dKZ4v1b/icon-5.png"
                     />
 
                     <img
                       class="h-6 w-6 relative min-h-[24px]"
                       alt=""
-                      src="/public/icon-5.svg"
+                      src="https://i.ibb.co/dKZ4v1b/icon-5.png"
                     />
 
                     <img
                       class="h-6 w-6 relative min-h-[24px]"
                       alt=""
-                      src="/public/icon-5.svg"
+                      src="https://i.ibb.co/dKZ4v1b/icon-5.png"
                     />
 
                     <img
                       class="h-6 w-6 relative min-h-[24px]"
                       alt=""
-                      src="/public/icon-5.svg"
+                      src="https://i.ibb.co/dKZ4v1b/icon-5.png"
                     />
 
                     <img
                       class="h-6 w-6 relative min-h-[24px]"
                       alt=""
-                      src="/public/icon-5.svg"
+                      src="https://i.ibb.co/dKZ4v1b/icon-5.png"
                     />
                   </div>
                   <blockquote class="m-0 self-stretch relative leading-[150%] text-black">
