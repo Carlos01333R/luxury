@@ -63,7 +63,8 @@ export default function OurProyect(){
               <img
                 className="self-stretch flex-1 relative max-w-full overflow-hidden max-h-full object-cover min-w-[240px] min-h-[364px] ml-[-2px]"
                 alt=""
-                src="/public/image--lummi-1@2x.png"
+                src="https://i.ibb.co/Jyp9Rs7/image-lummi-1-2x.png"
+                  
               />
             </div>
             <div
@@ -107,7 +108,7 @@ export default function OurProyect(){
               <img
                 className="self-stretch flex-1 relative max-w-full overflow-hidden max-h-full object-cover min-w-[240px] min-h-[364px] ml-[-2px]"
                 alt=""
-                src="/public/image--lummi-2@2x.png"
+                src="https://i.ibb.co/ZBvrNhr/image-lummi-2-2x.png"
               />
             </div>
           </div>
