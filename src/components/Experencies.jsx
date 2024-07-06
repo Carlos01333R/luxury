@@ -9,7 +9,7 @@ export default function Experiencie(){
                     <div className="flex flex-col md:flex-row items-start justify-center py-28 px-16 box-border gap-8 md:gap-16 max-w-4xl">
                         <div className="flex flex-col md:flex-row items-start justify-start relative min-w-full md:min-w-[300px] max-w-full md:max-w-[200px]">
                             <div className="flex-1 bg-gray-300 flex hidden md:block flex-row items-center justify-center py-64 px-5 box-border max-w-full z-[1] rounded-xl">
-                                <img className="h-[50px] w-[200px] relative rounded-lg m-auto" loading="lazy" alt="" src="https://e7.pngegg.com/pngimages/960/372/png-clipart-computer-icons-button-google-play-play-angle-text-thumbnail.png" />
+                                <img className="h-[50px] w-[200px] relative rounded-lg m-auto" loading="lazy" alt="" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAeFBMVEUTGigRGCcAABYAAAAAABAIEiIWHSoAABkdIy+oqq3///+2t7o6PkfS09Wmp6oxNT/y8vMAAArc3N4AABSEhYoAAAW9vsCio6YoLTnm5ueXmJtMUFhARU9DR08ADR9wdHpVWF96fIFlZ23FxshdYGaRk5YmKjUAABi5NGlnAAAA0ElEQVR4AczQRQLCQAxA0WQyqbu7oPe/IQSnW/TX+6oDfx4udxVJWg7Y4KuZForZjuSaCOw5iGcjP1Byu4HHQjeKEXSQEEhpFuUIohJTUSqswrqJ5fGh03YMt9iribsMnX4AoChrx+EBqyNOLo1OjuT6NJfqjlTa6bBKclqvaeMotS00yMtJyhxGQYyd2ZkG84zp+Vd8i0EQht6xCS6oi3JX7fY5wxnBnEy4Y5Oy/PsVgeER9yJ3hDehCee4XevrdXOgZMv3ceKLiarDGIYYAACHvQ/LUUYFbwAAAABJRU5ErkJggg==" />
                             </div>
                         </div>
 
