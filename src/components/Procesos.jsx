@@ -30,7 +30,7 @@ export default function ProcesosConstrucción() {
         </div>
         <div className="w-full flex flex-col md:flex-row flex-wrap items-start justify-start gap-10 max-w-4xl mx-auto text-lg font-fira-sans">
           <div className="flex-1 flex flex-col items-start justify-start gap-2 min-w-[240px] max-w-[400px] w-full">
-            <img className="w-8 h-8 relative" alt="" src="/public/icon-icon.svg" />
+            <img className="w-8 h-8 relative" alt="" src="https://cdn-icons-png.flaticon.com/512/5668/5668512.png" />
             <div className="self-stretch relative leading-6 text-black font-bold">
               Initial Consultation
             </div>
