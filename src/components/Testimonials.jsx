@@ -31,7 +31,7 @@ export default function Testimonials(){
                     class="w-28 h-28 relative rounded-41xl object-contain"
                     loading="lazy"
                     alt=""
-                    src="/public/image-lummi-categoryavatars@2x.png"
+                    src="https://i.ibb.co/w0hMngw/image-lummi-categoryavatars-2x.png"
                   />
 
                   <div
@@ -100,7 +100,7 @@ export default function Testimonials(){
                   <img
                     class="w-28 h-28 relative rounded-41xl object-contain"
                     alt=""
-                    src="/public/image-lummi-categoryavatars-1@2x.png"
+                    src="https://i.ibb.co/WHQQh5N/image-lummi-categoryavatars-1-2x.png"
                   />
 
                   <div
