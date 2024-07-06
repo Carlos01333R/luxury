@@ -39,7 +39,7 @@ export default function ProcesosConstrucción() {
             </div>
           </div>
           <div className="flex-1 flex flex-col items-start justify-start gap-2 min-w-[240px] max-w-[400px] w-full">
-            <img className="w-8 h-8 relative" alt="" src="/public/icon-icon-1.svg" />
+            <img className="w-8 h-8 relative" alt="" src="https://t4.ftcdn.net/jpg/01/07/57/91/360_F_107579101_QVlTG43Fwg9Q6ggwF436MPIBTVpaKKtb.jpg" />
             <div className="self-stretch relative leading-6 text-black font-bold">
               Design & Planning
             </div>
