@@ -35,9 +35,7 @@ export default function Experiencie(){
                                         Endorsed By
                                     </div>
                                     <div className="self-stretch flex flex-row flex-wrap items-center justify-center py-0 pr-5 pl-0 box-border gap-8 min-w-full">
-                                        <img className="self-stretch w-[116px] relative max-h-full overflow-hidden shrink-0 min-h-[40px]" loading="lazy" alt="" src="https://turbologo.com/articles/wp-content/uploads/2020/12/logo4.png" />
-                                        <img className="self-stretch w-[100px] relative max-h-full overflow-hidden shrink-0 min-h-[40px]" alt="" src="https://pbs.twimg.com/media/Fip49SEXgAMHKgC?format=jpg&name=large" />
-                                        <img className="self-stretch w-[135px] relative max-h-full overflow-hidden shrink-0 min-h-[40px]" alt="" src="https://assets.zyrosite.com/d95EOvXQxeH8yNRp/color-logo---no-background-YyvkavaR77CGWZ92.svg" />
+                                           <img className="self-stretch w-[135px] relative max-h-full overflow-hidden shrink-0 min-h-[40px]" alt="" src="https://assets.zyrosite.com/d95EOvXQxeH8yNRp/color-logo---no-background-YyvkavaR77CGWZ92.svg" />
                                         <img className="self-stretch w-[140px] relative max-h-full overflow-hidden shrink-0 min-h-[40px]" alt="" src="https://obrascivilescia.com/wp-content/uploads/2023/05/logopng.png" />
                                     </div>
                                 </div>
