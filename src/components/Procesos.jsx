@@ -48,7 +48,7 @@ export default function ProcesosConstrucción() {
             </div>
           </div>
           <div className="flex-1 flex flex-col items-start justify-start gap-2 min-w-[240px] max-w-[400px] w-full">
-            <img className="w-8 h-8 relative" alt="" src="/public/icon-icon-2.svg" />
+            <img className="w-8 h-8 relative" alt="" src="https://img.freepik.com/vector-premium/icono-linea-permiso-construccion-blanco_116137-7098.jpg?w=360" />
             <div className="self-stretch relative leading-6 text-black font-bold">
               Preparation & Permits
             </div>
