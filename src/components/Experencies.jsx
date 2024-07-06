@@ -9,7 +9,7 @@ export default function Experiencie(){
                     <div className="flex flex-col md:flex-row items-start justify-center py-28 px-16 box-border gap-8 md:gap-16 max-w-4xl">
                         <div className="flex flex-col md:flex-row items-start justify-start relative min-w-full md:min-w-[300px] max-w-full md:max-w-[200px]">
                             <div className="flex-1 bg-gray-300 flex hidden md:block flex-row items-center justify-center py-64 px-5 box-border max-w-full z-[1] rounded-xl">
-                                <img className="h-[50px] w-[200px] relative rounded-lg m-auto" loading="lazy" alt="" src="/public/company-logo-1.svg" />
+                                <img className="h-[50px] w-[200px] relative rounded-lg m-auto" loading="lazy" alt="" src="../../public/company-logo-1.svg" />
                             </div>
                         </div>
 
