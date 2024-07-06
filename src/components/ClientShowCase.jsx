@@ -27,7 +27,7 @@ export default function ClienShow() {
                         </div>
                       </button>
                       <div className="h-10 w-10 rounded-full bg-white flex items-center justify-center p-2 box-border">
-                        <img className="h-6 w-6" alt="" src="/public/icon-1.svg" />
+                        <img className="h-6 w-6" alt="" src="../../public/icon-1.svg" />
                       </div>
                     </div>
                     <div className="self-stretch flex flex-row items-center justify-start pt-0 px-6 pb-6 box-border">
