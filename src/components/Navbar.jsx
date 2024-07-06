@@ -27,7 +27,7 @@ function NavList() {
         className="p-1 font-medium"
       >
         <a href="#" className="flex items-center hover:text-yellow-800 transition-colors">
-          Account
+         About
         </a>
       </Typography>
       <Typography
