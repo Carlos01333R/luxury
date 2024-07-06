@@ -9,7 +9,7 @@ export default function Experiencie(){
                     <div className="flex flex-col md:flex-row items-start justify-center py-28 px-16 box-border gap-8 md:gap-16 max-w-4xl">
                         <div className="flex flex-col md:flex-row items-start justify-start relative min-w-full md:min-w-[300px] max-w-full md:max-w-[200px]">
                             <div className="flex-1 bg-gray-300 flex hidden md:block flex-row items-center justify-center py-64 px-5 box-border max-w-full z-[1] rounded-xl">
-                                <img className="h-[50px] w-[200px] relative rounded-lg m-auto" loading="lazy" alt="" src="../public/play-icon.svg" />
+                                <img className="h-[50px] w-[200px] relative rounded-lg m-auto" loading="lazy" alt="" src="../../public/play-icon.svg" />
                             </div>
                         </div>
 
@@ -35,10 +35,10 @@ export default function Experiencie(){
                                         Endorsed By
                                     </div>
                                     <div className="self-stretch flex flex-row flex-wrap items-center justify-center py-0 pr-5 pl-0 box-border gap-8 min-w-full">
-                                        <img className="self-stretch w-[116px] relative max-h-full overflow-hidden shrink-0 min-h-[40px]" loading="lazy" alt="" src="../public/company-logo.svg" />
-                                        <img className="self-stretch w-[100px] relative max-h-full overflow-hidden shrink-0 min-h-[40px]" alt="" src="../public/company-logo-1.svg" />
-                                        <img className="self-stretch w-[135px] relative max-h-full overflow-hidden shrink-0 min-h-[40px]" alt="" src="../public/company-logo-2.svg" />
-                                        <img className="self-stretch w-[140px] relative max-h-full overflow-hidden shrink-0 min-h-[40px]" alt="" src="../public/company-logo-3.svg" />
+                                        <img className="self-stretch w-[116px] relative max-h-full overflow-hidden shrink-0 min-h-[40px]" loading="lazy" alt="" src="../../public/company-logo.svg" />
+                                        <img className="self-stretch w-[100px] relative max-h-full overflow-hidden shrink-0 min-h-[40px]" alt="" src="../../public/company-logo-1.svg" />
+                                        <img className="self-stretch w-[135px] relative max-h-full overflow-hidden shrink-0 min-h-[40px]" alt="" src="../../public/company-logo-2.svg" />
+                                        <img className="self-stretch w-[140px] relative max-h-full overflow-hidden shrink-0 min-h-[40px]" alt="" src="../../public/company-logo-3.svg" />
                                     </div>
                                 </div>
                             </div>
