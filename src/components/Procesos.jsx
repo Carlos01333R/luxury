@@ -7,7 +7,7 @@ export default function ProcesosConstrucción() {
             className="h-80 flex-1 relative rounded-xl overflow-hidden object-cover min-w-[272px] md:max-w-[564px] w-full"
             loading="lazy"
             alt=""
-            src="/public/image--lummi@2x.png"
+            src="https://www.arquibase.com/uploads/8/3/4/5/8345765/published/fachada-de-casa-minimalista-moderna-con-piedra-natural-y-madera.jpg?1717657514"
           />
 
           <div className="flex-1 flex flex-col items-start justify-center gap-10 min-w-[272px] md:max-w-[720px] w-full">
