@@ -17,7 +17,7 @@ export default function ClienShow() {
                   <img
                     className="self-stretch flex-1 relative max-w-full overflow-hidden max-h-full object-cover"
                     alt=""
-                    src="/public/image-lummi@2x.png"
+                    src="../../public/image-lummi@2x.png"
                   />
                   <div className="w-full absolute h-full top-0 right-0 bottom-0 left-0 flex flex-col items-start justify-between min-h-[580px] z-[1]">
                     <div className="self-stretch flex flex-row items-center justify-between pt-6 px-6 gap-5 flex-wrap">
