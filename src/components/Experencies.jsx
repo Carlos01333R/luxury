@@ -35,10 +35,10 @@ export default function Experiencie(){
                                         Endorsed By
                                     </div>
                                     <div className="self-stretch flex flex-row flex-wrap items-center justify-center py-0 pr-5 pl-0 box-border gap-8 min-w-full">
-                                        <img className="self-stretch w-[116px] relative max-h-full overflow-hidden shrink-0 min-h-[40px]" loading="lazy" alt="" src="../../public/company-logo.svg" />
-                                        <img className="self-stretch w-[100px] relative max-h-full overflow-hidden shrink-0 min-h-[40px]" alt="" src="../../public/company-logo-1.svg" />
-                                        <img className="self-stretch w-[135px] relative max-h-full overflow-hidden shrink-0 min-h-[40px]" alt="" src="../../public/company-logo-2.svg" />
-                                        <img className="self-stretch w-[140px] relative max-h-full overflow-hidden shrink-0 min-h-[40px]" alt="" src="../../public/company-logo-3.svg" />
+                                        <img className="self-stretch w-[116px] relative max-h-full overflow-hidden shrink-0 min-h-[40px]" loading="lazy" alt="" src="../assets/company-logo.svg" />
+                                        <img className="self-stretch w-[100px] relative max-h-full overflow-hidden shrink-0 min-h-[40px]" alt="" src="../assets/company-logo-1.svg" />
+                                        <img className="self-stretch w-[135px] relative max-h-full overflow-hidden shrink-0 min-h-[40px]" alt="" src="../assets/company-logo-2.svg" />
+                                        <img className="self-stretch w-[140px] relative max-h-full overflow-hidden shrink-0 min-h-[40px]" alt="" src="../assets/company-logo-3.svg" />
                                     </div>
                                 </div>
                             </div>
